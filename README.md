@@ -1,42 +1,13 @@
-# Hi, I'm Yihua Qin 👋
+# Hi, I'm Yihua Qin (Yves) 👋
 
-**AI Agent & Robotics Developer based in Beijing.**
+PhD student at the College of AI, Tsinghua University.
 
-I'm a Mechanical Engineering student at Tsinghua University, building practical
-systems at the intersection of AI agents, personal knowledge, and robotics.
+Building ToC AI products across product and engineering, exploring frontier LLM
+agent research, and tracking emerging developments in Web3 and crypto.
 
-## What I'm working on
+Feel free to reach out—I'm always happy to connect, exchange ideas, and
+collaborate.
 
-- 🧠 [Memora](https://github.com/qinyh10300/Memora) — An intelligent memory
-  network for personal documents and team knowledge.
+[Personal Website](https://qinyh10300.github.io/) · [X/Twitter](https://x.com/qinyh10300) · [Google Scholar](https://scholar.google.com/citations?user=xJGP4rIAAAAJ&hl=zh-CN)
 
-- 🌐 [Memora Extension](https://github.com/qinyh10300/memora-extension) — An
-  AI-powered browser extension for capturing, summarizing, and organizing web content.
-
-- 🤖 [UMI](https://github.com/qinyh10300/umi) — A reproduction of the Universal
-  Manipulation Interface using a Franka robot.
-
-## Interests
-
-- AI agents and long-term memory
-- Browser automation and developer tools
-- Embodied AI and robotic manipulation
-- Computer vision and multimodal learning
-
-## Tech
-
-`Python` · `TypeScript` · `JavaScript` · `PyTorch` · `Vue` · `Git`
-
-## Selected projects
-
-| Project | Focus |
-| --- | --- |
-| [Memora](https://github.com/qinyh10300/Memora) | AI memory and knowledge systems |
-| [memora-extension](https://github.com/qinyh10300/memora-extension) | Browser extension and AI summarization |
-| [umi](https://github.com/qinyh10300/umi) | Robotics and embodied AI |
-| [UNet-Implement](https://github.com/qinyh10300/UNet-Implement) | Computer vision and segmentation |
-
-## Find me
-
-- 🌍 [Personal website](https://qinyh10300.github.io/)
-- 📍 Beijing, China
+**Email:** [qinyh10300@gmail.com](mailto:qinyh10300@gmail.com) · **WeChat:** `hnrzbjq`
