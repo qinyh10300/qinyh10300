@@ -4,6 +4,9 @@ I'm a Ph.D Candidate at College of AI, Tsinghua University.
 
 Building AI products and exploring the frontiers of AI and Web3.
 
+**Research interests:** Large Language Models, Multimodal Large Language Models,
+AI Agents, and Multi-Agent Systems.
+
 Feel free to reach out—I'm always happy to connect, exchange ideas, and
 collaborate.
 
