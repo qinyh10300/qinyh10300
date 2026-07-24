@@ -2,8 +2,9 @@
 
 I'm a Ph.D Candidate at College of AI, Tsinghua University.
 
-**My goals:** Consumer-facing (ToC) AI Agent products; frontier paradigms,
-technologies, and practices in AI Agents and Web3; research on AI Agents.
+**My goals:** Build consumer-facing (ToC) AI Agent products; Explore frontier
+technologies, paradigms, and developments in AI Agents and Web3 (Crypto);
+Research on AI Agents.
 
 **Research interests:** Large Language Models, Multimodal Large Language Models,
 AI Agents, and Multi-Agent Systems.
