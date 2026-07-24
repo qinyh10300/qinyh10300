@@ -9,4 +9,4 @@ collaborate.
 
 **Email:** [qinyh10300@gmail.com](mailto:qinyh10300@gmail.com) · **WeChat:** `hnrzbjq`
 
-[Personal Website](https://qinyh10300.github.io/) · [X/Twitter](https://x.com/qinyh10300) · [Google Scholar](https://scholar.google.com/citations?user=xJGP4rIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=xJGP4rIAAAAJ&hl=en) · [X/Twitter](https://x.com/qinyh10300) · [Personal Website](https://qinyh10300.github.io/)
